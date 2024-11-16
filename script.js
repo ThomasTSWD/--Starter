@@ -1,0 +1,1 @@
+console.log('%c 🚀🔥 Yooooooo 🔥🚀', 'font-size: 24px; font-weight: bold; color: #ff6347; background-color: #1e1e1e; padding: 15px; border-radius: 10px; text-shadow: 2px 2px 5px rgba(255, 99, 71, 0.6); transform: rotate(-5deg);');
